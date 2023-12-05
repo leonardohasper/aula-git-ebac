@@ -1,0 +1,12 @@
+Dados do aluno
+
+-Primeiro Nome: Leonardo
+-Profissão: Estudande/Professor de Inglês
+-Cidade: Curitiba
+-O que faz nas horas vaga: Interação com a Natureza
+-Feedback sobre o curso Qualidade de Software: Estou gostando muito até o momento e com medo de ficar muito difícil.
+-Feedback sobre a plataforma de estudo da EBAC: Muito bom
+
+Obrigado!!!
+
+
